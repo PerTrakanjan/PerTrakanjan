@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Per
 - I am Computer science student in Kasetsart university
-- 👀 I’m interested in backend developer software enginer
+- 👀 I’m interested in backend developer and software engineer
 - My another Github : https://github.com/Perthanakrit
 <!---
 PerTrakanjan/PerTrakanjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
